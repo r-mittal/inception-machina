@@ -11,4 +11,6 @@ except ZeroDivisionError:
     print("divided by zer0")
 except Exception:
 
-    print("file not foun
+    print("file not found")
+    
+#handlingreertingesfd
